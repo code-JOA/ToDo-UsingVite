@@ -12,4 +12,4 @@ npm create vite@latest
 
 # Figma File
 ## THIS file has the design structure followed to build the App
-
+https://www.figma.com/file/TPpfCmc2zp...
