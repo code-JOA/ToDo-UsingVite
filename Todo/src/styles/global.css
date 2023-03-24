@@ -5,5 +5,7 @@
 }
 
 body{
-  background: #191919
+  background: #191919;
+  color: #F2F2F2;
+  min-height:100vh
 }
