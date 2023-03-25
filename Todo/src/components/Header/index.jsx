@@ -1,4 +1,6 @@
-import todoLogo from '../../assets/todoLogo.svg';
+// import todoLogo from '../../assets/todoLogo.svg';
+import todoLogo from '../../assets/toDo.svg';
+
 import styles from './header.module.css';
 import { AiOutlinePlusCircle } from 'react-icons/ai';
 import { useState } from 'react';
