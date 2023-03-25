@@ -1,9 +1,8 @@
 # Modern ToDo-UsingVite
 
-![Repo List](assets/image.png)
+![Repo List](./assets/image.png)
 
-
-# Note : CRA is not the future hence more developers will be moving towards using Vite since its fast and more dependent
+# Note : CRA is not the future hence more developers will be moving towards using Vite since its much faster and more dependent
 
 # To create a new App
 npm create vite@latest vite-app --template React
