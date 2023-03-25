@@ -1,10 +1,10 @@
 import styles from './header.module.css';
 
 
-export function Header(){
+export function header(){
     return (
         <header className={styles.header}>
-            <p>newHeader</p>
+            <p>header</p>
         </header>
     )
 }
