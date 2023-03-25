@@ -1,6 +1,6 @@
 # Modern ToDo-UsingVite
 
-![Repo List](../assets/image.png)
+![Repo List](./image/image.png)
 
 # Note : CRA is not the future hence more developers will be moving towards using Vite since its much faster and more dependent
 
