@@ -8,7 +8,9 @@
 npm create vite@latest vite-app --template React
 
 # Or
-npm create vite@latest 
+npm create vite@latest
+
+follow the steps by choosing the framework as React and Javascript as your variant 
 
 ### then follow the option to create the name of the App and choose the framework & language you want to use.
 
